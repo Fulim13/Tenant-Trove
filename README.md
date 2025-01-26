@@ -2,7 +2,7 @@
 [Demo](Slide.pdf)
 
 # How to Run Locally
-1. git clone https://github.com/jackdong986/MAD-Assignment-.git
+1. git clone this repo
 2. cd MAD-Assignment-
 3. Open Android Studio.
 4. Click on Open an existing Android Studio project.
